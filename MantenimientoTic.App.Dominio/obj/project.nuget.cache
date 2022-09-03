@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "JvdFLCdehR5S7jtRqizVn/pKBE23W+cqTK2uA/EKqZo9zGEXv5BudU75V+OZdwtwdeqEZBpiA8YCM7xhm8Z1fw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jseba\\Documents\\MantenimientoTic\\Automotriz\\MantenimientoTic.App\\MantenimientoTic.App.Dominio\\MantenimientoTic.App.Dominio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jseba\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\jseba\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
