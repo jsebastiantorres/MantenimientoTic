@@ -9,7 +9,7 @@ namespace MantenimientoTic.App.Persistencia
 {
     public class AppContext : DbContext
     {
-        private const string connectionString = @"Data Source=localhost\sqlexpress;Initial Catalog=Ejemplo23;Integrated Security=True;";
+        private const string connectionString = @"Data Source=localhost\sqlexpress;Initial Catalog=MantenimientoTic;Integrated Security=True;";
         public DbSet<Persona> Personas {get;set;}
         public DbSet<Cliente> Clientes {get;set;}
         public DbSet<Tecnico> Tecnicos {get;set;}
