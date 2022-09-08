@@ -1,3 +1,3 @@
 # MantenimientoTic
-# Proyecto para aprobar ciclo 3 de Mision Tic 2022
-T
+# Proyecto para Aprobar ciclo 3 de Mision Tic 2022
+
