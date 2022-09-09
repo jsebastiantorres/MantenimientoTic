@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SMb3JU9WalFoynRAP0Q7mUIEc3Go+1Ga21wsOfRvl41pcBxw8/VEW+qkjqIzceujXPbIHwmUNd0ZfFAmMsFeEw==",
+  "dgSpecHash": "vV/WsgDgsl1B39Ex0eXulLGh1GY2jDfV6G6kul9NFVFm33VzFXVcshUcBa3QAMIy0qXBEchAmWW0iZSMTonddg==",
   "success": true,
-  "projectFilePath": "D:\\Datos\\Person\\Documentos\\ProgramacionTic\\Ciclo3\\DesarrolloSoftware\\Automotriz\\MantenimientoTic.App\\MantenimientoTic.App.Servicios\\MantenimientoTic.App.Servicios.csproj",
+  "projectFilePath": "/home/edg/Auto/MantenimientoTic/MantenimientoTic.App.Servicios/MantenimientoTic.App.Servicios.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
