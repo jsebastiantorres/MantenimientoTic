@@ -8,7 +8,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 namespace MantenimientoTic.App.Persistencia.Migrations
 {
-    [DbContext(typeof(AppContext))]
+    [DbContext(typeof(AppContexto))]
     [Migration("20220913000421_creandoEntidades")]
     partial class creandoEntidades
     {

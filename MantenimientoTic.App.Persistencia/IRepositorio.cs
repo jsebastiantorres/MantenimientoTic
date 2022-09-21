@@ -12,18 +12,21 @@ namespace MantenimientoTic.App.Persistencia
         //READ
         //UPDATE
         //DELETE
-        //GET
 
         //Crear persona
-        Persona Add(Persona presona);
+        Persona Add(Persona persona);
         //Crear personas
         IEnumerable<Persona> GetAll();
-        //Actualizar persona
-        //Persona Update(Persona persona);
-        //Delete persona
-        //void Delete(int idPresona);
         //Leer personas
-        //Persona Get(int id);
+        Persona Get(int id);
+        //Actualizar persona
+        Persona Update(Persona persona);
+        //Delete persona
+        void Delete(int id);
+
+        Cliente Add(Cliente cliente);
+
+
 
     }
 }

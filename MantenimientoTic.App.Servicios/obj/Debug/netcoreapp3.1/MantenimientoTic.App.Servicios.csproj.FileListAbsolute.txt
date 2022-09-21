@@ -6,8 +6,6 @@ C:\Users\jseba\Documents\ProyectoMantenimientoTic\MantenimientoTic.App\Mantenimi
 C:\Users\jseba\Documents\ProyectoMantenimientoTic\MantenimientoTic.App\MantenimientoTic.App.Servicios\bin\Debug\netcoreapp3.1\MantenimientoTic.App.Servicios.runtimeconfig.dev.json
 C:\Users\jseba\Documents\ProyectoMantenimientoTic\MantenimientoTic.App\MantenimientoTic.App.Servicios\bin\Debug\netcoreapp3.1\MantenimientoTic.App.Servicios.dll
 C:\Users\jseba\Documents\ProyectoMantenimientoTic\MantenimientoTic.App\MantenimientoTic.App.Servicios\bin\Debug\netcoreapp3.1\MantenimientoTic.App.Servicios.pdb
-C:\Users\jseba\Documents\ProyectoMantenimientoTic\MantenimientoTic.App\MantenimientoTic.App.Servicios\obj\Debug\netcoreapp3.1\MantenimientoTic.App.Servicios.csproj.AssemblyReference.cache
-C:\Users\jseba\Documents\ProyectoMantenimientoTic\MantenimientoTic.App\MantenimientoTic.App.Servicios\obj\Debug\netcoreapp3.1\MantenimientoTic.App.Servicios.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\jseba\Documents\ProyectoMantenimientoTic\MantenimientoTic.App\MantenimientoTic.App.Servicios\obj\Debug\netcoreapp3.1\MantenimientoTic.App.Servicios.AssemblyInfoInputs.cache
 C:\Users\jseba\Documents\ProyectoMantenimientoTic\MantenimientoTic.App\MantenimientoTic.App.Servicios\obj\Debug\netcoreapp3.1\MantenimientoTic.App.Servicios.AssemblyInfo.cs
 C:\Users\jseba\Documents\ProyectoMantenimientoTic\MantenimientoTic.App\MantenimientoTic.App.Servicios\obj\Debug\netcoreapp3.1\MantenimientoTic.App.Servicios.csproj.CoreCompileInputs.cache
@@ -17,3 +15,6 @@ C:\Users\jseba\Documents\ProyectoMantenimientoTic\MantenimientoTic.App\Mantenimi
 C:\Users\jseba\Documents\ProyectoMantenimientoTic\MantenimientoTic.App\MantenimientoTic.App.Servicios\obj\Debug\netcoreapp3.1\MantenimientoTic.App.Servicios.dll
 C:\Users\jseba\Documents\ProyectoMantenimientoTic\MantenimientoTic.App\MantenimientoTic.App.Servicios\obj\Debug\netcoreapp3.1\MantenimientoTic.App.Servicios.pdb
 C:\Users\jseba\Documents\ProyectoMantenimientoTic\MantenimientoTic.App\MantenimientoTic.App.Servicios\obj\Debug\netcoreapp3.1\MantenimientoTic.App.Servicios.genruntimeconfig.cache
+C:\Users\jseba\Documents\ProyectoMantenimientoTic\MantenimientoTic.App\MantenimientoTic.App.Servicios\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\jseba\Documents\ProyectoMantenimientoTic\MantenimientoTic.App\MantenimientoTic.App.Servicios\obj\Debug\netcoreapp3.1\MantenimientoTic.App.Servicios.csprojAssemblyReference.cache
+C:\Users\jseba\Documents\ProyectoMantenimientoTic\MantenimientoTic.App\MantenimientoTic.App.Servicios\obj\Debug\netcoreapp3.1\staticwebassets\MantenimientoTic.App.Servicios.StaticWebAssets.xml

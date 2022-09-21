@@ -127,8 +127,6 @@ C:\Users\jseba\Documents\ProyectoMantenimientoTic\MantenimientoTic.App\Mantenimi
 C:\Users\jseba\Documents\ProyectoMantenimientoTic\MantenimientoTic.App\MantenimientoTic.App.Consola\bin\Debug\netcoreapp3.1\MantenimientoTic.App.Persistencia.dll
 C:\Users\jseba\Documents\ProyectoMantenimientoTic\MantenimientoTic.App\MantenimientoTic.App.Consola\bin\Debug\netcoreapp3.1\MantenimientoTic.App.Persistencia.pdb
 C:\Users\jseba\Documents\ProyectoMantenimientoTic\MantenimientoTic.App\MantenimientoTic.App.Consola\bin\Debug\netcoreapp3.1\MantenimientoTic.App.Dominio.pdb
-C:\Users\jseba\Documents\ProyectoMantenimientoTic\MantenimientoTic.App\MantenimientoTic.App.Consola\obj\Debug\netcoreapp3.1\MantenimientoTic.App.Consola.csproj.AssemblyReference.cache
-C:\Users\jseba\Documents\ProyectoMantenimientoTic\MantenimientoTic.App\MantenimientoTic.App.Consola\obj\Debug\netcoreapp3.1\MantenimientoTic.App.Consola.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\jseba\Documents\ProyectoMantenimientoTic\MantenimientoTic.App\MantenimientoTic.App.Consola\obj\Debug\netcoreapp3.1\MantenimientoTic.App.Consola.AssemblyInfoInputs.cache
 C:\Users\jseba\Documents\ProyectoMantenimientoTic\MantenimientoTic.App\MantenimientoTic.App.Consola\obj\Debug\netcoreapp3.1\MantenimientoTic.App.Consola.AssemblyInfo.cs
 C:\Users\jseba\Documents\ProyectoMantenimientoTic\MantenimientoTic.App\MantenimientoTic.App.Consola\obj\Debug\netcoreapp3.1\MantenimientoTic.App.Consola.csproj.CoreCompileInputs.cache
@@ -136,3 +134,4 @@ C:\Users\jseba\Documents\ProyectoMantenimientoTic\MantenimientoTic.App\Mantenimi
 C:\Users\jseba\Documents\ProyectoMantenimientoTic\MantenimientoTic.App\MantenimientoTic.App.Consola\obj\Debug\netcoreapp3.1\MantenimientoTic.App.Consola.dll
 C:\Users\jseba\Documents\ProyectoMantenimientoTic\MantenimientoTic.App\MantenimientoTic.App.Consola\obj\Debug\netcoreapp3.1\MantenimientoTic.App.Consola.pdb
 C:\Users\jseba\Documents\ProyectoMantenimientoTic\MantenimientoTic.App\MantenimientoTic.App.Consola\obj\Debug\netcoreapp3.1\MantenimientoTic.App.Consola.genruntimeconfig.cache
+C:\Users\jseba\Documents\ProyectoMantenimientoTic\MantenimientoTic.App\MantenimientoTic.App.Consola\obj\Debug\netcoreapp3.1\MantenimientoTic.App.Consola.csprojAssemblyReference.cache

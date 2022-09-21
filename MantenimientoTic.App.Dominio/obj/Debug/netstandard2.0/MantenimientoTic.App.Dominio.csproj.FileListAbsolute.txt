@@ -20,10 +20,9 @@ C:\Users\jseba\Documents\MantenimientoTic\Automotriz\MantenimientoTic.App\Manten
 C:\Users\jseba\Documents\ProyectoMantenimientoTic\MantenimientoTic.App\MantenimientoTic.App.Dominio\bin\Debug\netstandard2.0\MantenimientoTic.App.Dominio.deps.json
 C:\Users\jseba\Documents\ProyectoMantenimientoTic\MantenimientoTic.App\MantenimientoTic.App.Dominio\bin\Debug\netstandard2.0\MantenimientoTic.App.Dominio.dll
 C:\Users\jseba\Documents\ProyectoMantenimientoTic\MantenimientoTic.App\MantenimientoTic.App.Dominio\bin\Debug\netstandard2.0\MantenimientoTic.App.Dominio.pdb
-C:\Users\jseba\Documents\ProyectoMantenimientoTic\MantenimientoTic.App\MantenimientoTic.App.Dominio\obj\Debug\netstandard2.0\MantenimientoTic.App.Dominio.csproj.AssemblyReference.cache
-C:\Users\jseba\Documents\ProyectoMantenimientoTic\MantenimientoTic.App\MantenimientoTic.App.Dominio\obj\Debug\netstandard2.0\MantenimientoTic.App.Dominio.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\jseba\Documents\ProyectoMantenimientoTic\MantenimientoTic.App\MantenimientoTic.App.Dominio\obj\Debug\netstandard2.0\MantenimientoTic.App.Dominio.AssemblyInfoInputs.cache
 C:\Users\jseba\Documents\ProyectoMantenimientoTic\MantenimientoTic.App\MantenimientoTic.App.Dominio\obj\Debug\netstandard2.0\MantenimientoTic.App.Dominio.AssemblyInfo.cs
 C:\Users\jseba\Documents\ProyectoMantenimientoTic\MantenimientoTic.App\MantenimientoTic.App.Dominio\obj\Debug\netstandard2.0\MantenimientoTic.App.Dominio.csproj.CoreCompileInputs.cache
 C:\Users\jseba\Documents\ProyectoMantenimientoTic\MantenimientoTic.App\MantenimientoTic.App.Dominio\obj\Debug\netstandard2.0\MantenimientoTic.App.Dominio.dll
 C:\Users\jseba\Documents\ProyectoMantenimientoTic\MantenimientoTic.App\MantenimientoTic.App.Dominio\obj\Debug\netstandard2.0\MantenimientoTic.App.Dominio.pdb
+C:\Users\jseba\Documents\ProyectoMantenimientoTic\MantenimientoTic.App\MantenimientoTic.App.Dominio\obj\Debug\netstandard2.0\MantenimientoTic.App.Dominio.csprojAssemblyReference.cache

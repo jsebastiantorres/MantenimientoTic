@@ -7,7 +7,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 namespace MantenimientoTic.App.Persistencia.Migrations
 {
-    [DbContext(typeof(AppContext))]
+    [DbContext(typeof(AppContexto))]
     partial class AppContextModelSnapshot : ModelSnapshot
     {
         protected override void BuildModel(ModelBuilder modelBuilder)
