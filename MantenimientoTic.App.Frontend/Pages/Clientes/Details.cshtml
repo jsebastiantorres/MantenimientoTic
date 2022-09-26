@@ -1,0 +1,38 @@
+﻿@page
+@model MyApp.Namespace.DetailsModel
+@{
+}
+
+<div class="container">
+    <button type="button" class="btn btn-info btn-sm"><a class="nav-link text-light" asp-area=""
+            asp-page="/Clientes/cosultarClientes"><i class="fa-solid fa-arrow-left"></i></a></button>
+</div>
+
+<div class="text-center">
+    <h3 class="">Detalles del Cliente</h3>
+    <br>
+</div>
+
+<div class="row justify-content-center justify-items-center">
+    <table class="table table-striped text-center ">
+        <thead class="bg-dark text-light">
+            <tr>
+                <th>ID</th>
+                <th>Nombre</th>
+                <th>Apellidos</th>
+                <th>Correo</th>
+                <th>Dirección</th>
+                <th>Télefono</th>
+            </tr>
+        </thead>
+        <tr>
+            <td>@Html.DisplayFor(m => m.Persona.PersonaId)</td>
+            <td>@Html.DisplayFor(m => m.Persona.Nombre)</td>
+            <td>@Html.DisplayFor(m => m.Persona.Apellido)</td>
+            <td>@Html.DisplayFor(m => m.Persona.Email)</td>
+            <td>@Html.DisplayFor(m => m.Persona.Direccion)</td>
+            <td>@Html.DisplayFor(m => m.Persona.Telefono)</td>
+        </tr>
+    </table>
+</div>
+

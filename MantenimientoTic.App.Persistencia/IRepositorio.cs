@@ -18,11 +18,11 @@ namespace MantenimientoTic.App.Persistencia
         //Crear personas
         IEnumerable<Persona> GetAll();
         //Leer personas
-        Persona Get(int id);
+        Persona Get(int PersonaId);
         //Actualizar persona
         Persona Update(Persona persona);
         //Delete persona
-        void Delete(int id);
+        void Delete(int PersonaId);
 
         Cliente Add(Cliente cliente);
 

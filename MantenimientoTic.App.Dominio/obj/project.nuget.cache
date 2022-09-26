@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "IlNFjfCY00BVNnVtDmIeWmivK3g61Q6PlY7eIeUwMO0pRGc+MupedPCj7PpIvpAQYTdEpRTI6bt7/9Lszv2xmA==",
+  "dgSpecHash": "8D93WPwSi22fWa5OyPKusbnLyrYFxIv6xMSrEm4+1XN+7IDoZ+l3BvN8uMJrO3WRw83f/fftt+2G+Lv/aJowGQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\jseba\\Documents\\ProyectoMantenimientoTic\\MantenimientoTic.App\\MantenimientoTic.App.Dominio\\MantenimientoTic.App.Dominio.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jseba\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\jseba\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\jseba\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\jseba\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }

@@ -14,11 +14,11 @@ namespace MantenimientoTic.App.Consola
         {
 
             //adicionarPersona();
-            //eliminarPersona(2);
+            //eliminarPersona(8);
             //leerPersona(4);
             //leerPersonas();
             //editarPersona(3);
-            adicionarCliente();
+            //adicionarCliente();
             
         }
 

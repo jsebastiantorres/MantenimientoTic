@@ -1,0 +1,54 @@
+﻿@page
+@model MantenimientoTic.App.Frontend.Pages.cosultarClientesModel
+@{
+}
+
+<div class="container">
+    <button type="button" class="btn btn-info btn-sm"><a class="nav-link text-light" asp-area=""
+            asp-page="/Clientes/registrarCliente"><i class="fa-solid fa-plus"></i> Registrar Cliente </a></button>
+</div>
+
+<div class="text-center">
+    <h3 class="">Listado de Clientes</h3>
+    <br>
+</div>
+
+<div>
+    <table class="table table-striped">
+        <thead class="thead-dark ">
+            <tr>
+                <th>ID</th>
+                <th>Nombre</th>
+                <th>Apellidos</th>
+                <th>Correo</th>
+                <th>Dirección</th>
+                <th>Télefono</th>
+                <th>Detalle</th>
+                <th>Actualizar</th>
+                <th>Eliminar</th>
+            </tr>
+        </thead>
+        @foreach (var Persona in Model.Personas)
+        {
+            <tr>
+                <td>@Persona.PersonaId</td>
+                <td>@Persona.Nombre</td>
+                <td>@Persona.Apellido</td>
+                <td>@Persona.Email</td>
+                <td>@Persona.Direccion</td>
+                <td>@Persona.Telefono</td>
+                <td class="justify-content-center align-items-center text-center">
+                    <a class="btn btn-info" asp-page="./Details" asp-route-id="@Persona.PersonaId"><i class="fa-solid fa-info"></i></a>
+                </td>
+                <td class="justify-content-center align-items-center text-center">
+                    <a class="btn btn-primary" asp-page="./Update" asp-route-id="@Persona.PersonaId"><i class="fa-solid fa-pencil"></i></a>
+                </td>
+                <td class="justify-content-center align-items-center text-center">
+                    <a class="btn btn-danger" asp-page="./Delete" asp-route-id="@Persona.PersonaId"><i class="fa-sharp fa-solid fa-trash"></i></a>
+                </td>
+            </tr>
+        }
+
+    </table>
+
+</div>

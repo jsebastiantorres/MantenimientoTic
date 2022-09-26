@@ -1,0 +1,70 @@
+﻿@page
+@model MantenimientoTic.App.Frontend.Pages.registrarClienteModel
+@{
+}
+
+<div class="container">
+    <button type="button" class="btn btn-info btn-sm"><a class="nav-link text-light" asp-area=""
+            asp-page="/Clientes/cosultarClientes"><i class="fa-solid fa-arrow-left"></i></a></button>
+</div>
+
+<div class="text-center">
+    <h3 class="">Registro de cliente</h3>
+    <br>
+    <!--<p>Learn about <a href="https://docs.microsoft.com/aspnet/core">Listado actual de clientes</a>.</p>-->
+</div>
+
+<div>
+    <form method="post">
+        <div class="row justify-content-center">
+            <div asp-validation-sumary="ModelOnly" class="text-danger"></div>
+            <div class="form-group col-md-8">
+                @* <label for="Nombre">Nombre</label> *@
+                <input asp-for="Persona.Nombre" class="form-control" id="Nombre" aria-describedby="nombre"
+                    placeholder="Nombre">
+                @* <small id="nombreHelp" class="form-text text-muted">Verifique que el nombre este bien
+                    escrito</small>*@
+                <span asp-validation-for="Persona.Nombre" class="text-danger"></span>
+            </div>
+            <div class="form-group col-md-8">
+                @* <label for="Apellido">Apellido</label> *@
+                <input asp-for="Persona.Apellido" class="form-control" id="Apellido" aria-describedby="apellido"
+                    placeholder="Apellido">
+                @* <small id="apellidoHelp" class="form-text text-muted">Verifique que el apellido este bien
+                    escrito</small>*@
+                <span asp-validation-for="Persona.Apellido" class="text-danger"></span>
+            </div>
+            <div class="form-group col-md-8">
+                @* <label for="Email">Correo</label> *@
+                <input asp-for="Persona.Email" class="form-control" id="Email" aria-describedby="emailHelp"
+                    placeholder="Correo electronico">
+                @* <small id="emailHelp" class="form-text text-muted">Verifique que el correo este bien
+                    escrito</small>*@
+                <span asp-validation-for="Persona.Email" class="text-danger"></span>
+            </div>
+            <div class="form-group col-md-8">
+                @* <label for="Dirrecion">Dirección</label> *@
+                <input asp-for="Persona.Direccion" class="form-control" id="Direccion" aria-describedby="direccion"
+                    placeholder="Dirección">
+                @* <small id="direccionHelp" class="form-text text-muted">Verifique que la dirección este bien
+                    escrita</small>*@
+                <span asp-validation-for="Persona.Direccion" class="text-danger"></span>
+            </div>
+            <div class="form-group col-md-8">
+                @* <label for="Telefono">Teléfono</label> *@
+                <input asp-for="Persona.Telefono" class="form-control" id="Telefono" aria-describedby="telefono"
+                    placeholder="Teléfono">
+                @* <small id="telefonoHelp" class="form-text text-muted">Verifique que el teléfono este bien
+                    escrito</small>
+                *@
+                <span asp-validation-for="Persona.Telefono" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="row justify-content-center justify-items-center">
+            <div class="form-group">
+                <input type="submit" value="Registrar Cliente" class="btn btn-success " />
+            </div>
+        </div>
+    </form>
+
+</div>
